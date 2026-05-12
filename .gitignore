@@ -1,0 +1,6 @@
+tasks/out/*
+charts_plotter/.vscode/*
+tasks/.vs/*
+CMakePresets.json
+tasks/*.obj
+tasks/*.pdb

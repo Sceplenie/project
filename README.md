@@ -77,6 +77,8 @@ python charts_plotter/plot_chart.py --json ber_results.json
 - QPSK
 - 16-QAM
 - 64-QAM
+  
+<img src="images/photo_2026-05-15_01-32-57.jpg" width="600" alt="График зависимости вероятности ошибки на бит от дисперсии шума">
 
 ## Структура проекта
 
